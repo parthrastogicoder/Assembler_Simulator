@@ -4,6 +4,9 @@ Create a binary assembler and a simulator for testing it
 CSE112 - Computer Organisation
 
 Parth Rastogi 
+Paras Verma
+Piyush Narula 
+Sarthak Sharma
 
 #Automation
 The final assembler is `assembler.py`
